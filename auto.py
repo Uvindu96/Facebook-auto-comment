@@ -9,3 +9,4 @@ while var == 1:
     pyautogui.typewrite(comments[var])
     pyautogui.typewrite("\n")
     time.sleep(2)
+#adding comment from repo 2
